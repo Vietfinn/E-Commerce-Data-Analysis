@@ -37,9 +37,4 @@ The dataset contains 26 attributes including `item_id`, `status`, `payment_metho
 3.  Run the analysis:
     Open `notebook.ipynb` or check the [Google Colab Link](https://colab.research.google.com/drive/1WYNRqLy05ZBviD-rNtOhhz9fdXfTTaK4?usp=sharing).
 
-## 👥 Authors
-* **Tran Bao Viet** - *Data Analyst & AI Intern*
-* **Group 15** - HCMUTE
-
----
 *May 2025*
